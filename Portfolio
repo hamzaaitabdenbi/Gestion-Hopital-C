@@ -1,1 +1,79 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hospital Management System - C Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+        }
+        header {
+            background: #2A5DFF;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 30px;
+            background: white;
+            margin-top: 25px;
+            border-radius: 8px;
+        }
+        h1,h2,h3 {
+            color: #2A5DFF;
+        }
+        a.button {
+            display: inline-block;
+            text-decoration: none;
+            background: #2A5DFF;
+            padding: 10px 20px;
+            color: white;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hospital Management System - C Project</h1>
+    <p>Par : <b>Hamza Ait Abdenbi</b></p>
+</header>
+
+<div class="container">
+    <h2>📌 Description</h2>
+    <p>Application de gestion d’un hôpital développée en langage C, permettant la gestion rapide et intuitive des patients.</p>
+
+    <h2>🧩 Fonctionnalités</h2>
+    <ul>
+        <li>➤ Ajouter un patient</li>
+        <li>➤ Rechercher un patient</li>
+        <li>➤ Afficher la liste</li>
+        <li>➤ Modifier / supprimer un dossier patient</li>
+    </ul>
+
+    <h2>📄 Documents</h2>
+    <p><a href="../docs/Rapport.pdf" class="button">Télécharger le Rapport</a></p>
+    <p><a href="../docs/Présentation.pptx" class="button">Télécharger la Présentation</a></p>
+
+    <h2>📦 Code Source</h2>
+    <p><a href="https://github.com/username/Hospital-Management-System" class="button">Voir sur GitHub</a></p>
+</div>
+
+<footer>
+    <p>© 2025 - Projet universitaire développé en C | Hamza Ait Abdenbi</p>
+</footer>
+
+</body>
+</html>
